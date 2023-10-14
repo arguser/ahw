@@ -1,0 +1,11 @@
+;>
+
+%delta-follower manage subscriptions for %delta updates, it doesn't store state.
+
+# %sub
+
+```
+[%sub =ship]
+```
+
+Subscribes to the given ship, updates will be shown on terminal.

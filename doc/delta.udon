@@ -1,0 +1,20 @@
+;>
+
+%delta let you push or pop values from a stack.
+
+# %push
+
+```
+[%push =ship =value]
+```
+
+Pushes the given =value to the =ship stack.
+
+
+# %pop
+
+```
+[%pop =ship]
+```
+
+Pops the latest value from the =ship stack.
